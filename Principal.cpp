@@ -7,7 +7,8 @@ Principal::Principal()
 }
 
 Principal::~Principal()
-{
+{ 
+                       destrutorrrr
     //dtor
 }
 
