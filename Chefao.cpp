@@ -1,5 +1,7 @@
 #include "Chefao.h"
 
+//////////////
+
 Chefao::Chefao(): Inimigo()
 {
     Jog_Perseguido = NULL;
