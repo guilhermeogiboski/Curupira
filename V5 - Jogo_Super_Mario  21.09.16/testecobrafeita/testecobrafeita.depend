@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1442593066 source:c:\users\user\documents\guiba-utfpr\testecobrafeita\main.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+
+1442954382 source:d:\users\user\documents\guiba-utfpr\testecobrafeita\main.c
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	"recursos.h"
+	"funções.h"
+
+1442704964 d:\users\user\documents\guiba-utfpr\testecobrafeita\recursos.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<stdio.h>
+	<conio.h>
+
+1443050747 d:\users\user\documents\guiba-utfpr\testecobrafeita\funções.h
+

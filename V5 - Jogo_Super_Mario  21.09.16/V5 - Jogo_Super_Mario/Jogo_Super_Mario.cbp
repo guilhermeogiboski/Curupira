@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Jogo_Super_Mario" />
+		<Option execution_dir="C:/Users/MárcioVictor/Documents/GRADUAÇÃO/UTFPR/2016 - 2 semestre/Fundamentos de Programação 2/Projeto/Jogo/" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Jogo_Super_Mario" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Jogo_Super_Mario" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/Chefao.h" />
+		<Unit filename="include/Fase.h" />
+		<Unit filename="include/Fase1.h" />
+		<Unit filename="include/Fase2.h" />
+		<Unit filename="include/Fase3.h" />
+		<Unit filename="include/Inimigo.h" />
+		<Unit filename="include/Jogador.h" />
+		<Unit filename="include/Jogo.h" />
+		<Unit filename="include/Menu.h" />
+		<Unit filename="include/Personagem.h" />
+		<Unit filename="include/Principal.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Chefao.cpp" />
+		<Unit filename="src/Fase.cpp" />
+		<Unit filename="src/Fase1.cpp" />
+		<Unit filename="src/Fase2.cpp" />
+		<Unit filename="src/Fase3.cpp" />
+		<Unit filename="src/Inimigo.cpp" />
+		<Unit filename="src/Jogador.cpp" />
+		<Unit filename="src/Jogo.cpp" />
+		<Unit filename="src/Menu.cpp" />
+		<Unit filename="src/Personagem.cpp" />
+		<Unit filename="src/Principal.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

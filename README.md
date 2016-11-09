@@ -1,2 +1,0 @@
-# Curupira
-projeto C++

@@ -1,0 +1,214 @@
+# depslib dependency file v1.0
+1471064235 source:c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\jogo\v2 - jogo_super_mario\main.cpp
+	"Principal.h"
+
+1471973685 c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\jogo\v2 - jogo_super_mario\include\principal.h
+	"Jogo.h"
+
+1472069947 c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\jogo\v2 - jogo_super_mario\include\jogo.h
+	"Jogador.h"
+	"Inimigo.h"
+
+1472069947 c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\jogo\v2 - jogo_super_mario\include\jogador.h
+	<allegro.h>
+
+1472069947 source:c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\jogo\v2 - jogo_super_mario\src\jogador.cpp
+	"Jogador.h"
+	"Inimigo.h"
+
+1472069828 source:c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\jogo\v2 - jogo_super_mario\src\jogo.cpp
+	"Jogo.h"
+
+1471973825 source:c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\jogo\v2 - jogo_super_mario\src\principal.cpp
+	"Principal.h"
+
+1472081967 source:c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\jogo\v2 - jogo_super_mario\src\inimigo.cpp
+	"Inimigo.h"
+
+1472081663 c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\jogo\v2 - jogo_super_mario\include\inimigo.h
+	<allegro.h>
+	"Jogador.h"
+
+1471063975 source:c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\jogo\v2 - jogo_super_mario\src\moveinimigo.cpp
+	"MoveInimigo.h"
+
+1471063975 c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\jogo\v2 - jogo_super_mario\include\moveinimigo.h
+
+1471063954 source:c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\jogo\v2 - jogo_super_mario\src\movejogador.cpp
+	"MoveJogador.h"
+
+1471063954 c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\jogo\v2 - jogo_super_mario\include\movejogador.h
+
+1471064235 source:c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v2 - jogo_super_mario\main.cpp
+	"Principal.h"
+
+1471973685 c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v2 - jogo_super_mario\include\principal.h
+	"Jogo.h"
+
+1472129214 c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v2 - jogo_super_mario\include\jogo.h
+	"Jogador.h"
+	"Inimigo.h"
+
+1472069947 c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v2 - jogo_super_mario\include\jogador.h
+	<allegro.h>
+
+1472084643 c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v2 - jogo_super_mario\include\inimigo.h
+	<allegro.h>
+	"Jogador.h"
+
+1472081967 source:c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v2 - jogo_super_mario\src\inimigo.cpp
+	"Inimigo.h"
+
+1472069947 source:c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v2 - jogo_super_mario\src\jogador.cpp
+	"Jogador.h"
+	"Inimigo.h"
+
+1472128733 source:c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v2 - jogo_super_mario\src\jogo.cpp
+	"Jogo.h"
+
+1471973825 source:c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v2 - jogo_super_mario\src\principal.cpp
+	"Principal.h"
+
+1471064235 source:c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v3 - jogo_super_mario\main.cpp
+	"Principal.h"
+
+1472161076 c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v3 - jogo_super_mario\include\principal.h
+	"Jogo.h"
+
+1472162574 c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v3 - jogo_super_mario\include\jogo.h
+	<allegro.h>
+	"Jogador.h"
+	"Inimigo.h"
+
+1472069947 c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v3 - jogo_super_mario\include\jogador.h
+	<allegro.h>
+
+1472084643 c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v3 - jogo_super_mario\include\inimigo.h
+	<allegro.h>
+	"Jogador.h"
+
+1472081967 source:c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v3 - jogo_super_mario\src\inimigo.cpp
+	"Inimigo.h"
+
+1472069947 source:c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v3 - jogo_super_mario\src\jogador.cpp
+	"Jogador.h"
+	"Inimigo.h"
+
+1472164844 source:c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v3 - jogo_super_mario\src\jogo.cpp
+	"Jogo.h"
+
+1472161030 source:c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v3 - jogo_super_mario\src\principal.cpp
+	"Principal.h"
+
+1471064235 source:c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v4 - jogo_super_mario\main.cpp
+	"Principal.h"
+
+1472161076 c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v4 - jogo_super_mario\include\principal.h
+	"Jogo.h"
+
+1472226656 c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v4 - jogo_super_mario\include\jogo.h
+	<allegro.h>
+	"Jogador.h"
+	"Inimigo.h"
+
+1472201319 c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v4 - jogo_super_mario\include\jogador.h
+	<allegro.h>
+
+1472084643 c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v4 - jogo_super_mario\include\inimigo.h
+	<allegro.h>
+	"Jogador.h"
+
+1472341832 source:c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v4 - jogo_super_mario\src\inimigo.cpp
+	"Inimigo.h"
+
+1472161030 source:c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v4 - jogo_super_mario\src\principal.cpp
+	"Principal.h"
+
+1472341798 source:c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v4 - jogo_super_mario\src\jogador.cpp
+	"Jogador.h"
+	"Inimigo.h"
+
+1472240148 source:c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v4 - jogo_super_mario\src\jogo.cpp
+	"Jogo.h"
+
+1474055413 source:c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v5 - jogo_super_mario\src\inimigo.cpp
+	"Inimigo.h"
+
+1474221088 c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v5 - jogo_super_mario\include\inimigo.h
+	"Personagem.h"
+	"Jogador.h"
+	<stdio.h>
+	<iostream>
+
+1474053256 c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v5 - jogo_super_mario\include\jogador.h
+	"Personagem.h"
+
+1474216336 c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v5 - jogo_super_mario\include\personagem.h
+	<allegro.h>
+
+1473721753 source:c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v5 - jogo_super_mario\main.cpp
+
+1474088644 c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v5 - jogo_super_mario\include\jogo.h
+	"Fase1.h"
+	"Fase2.h"
+	"Fase3.h"
+
+1472756607 c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v5 - jogo_super_mario\include\fases.h
+	<allegro.h>
+	"Jogador.h"
+	"Inimigo.h"
+
+1474214604 source:c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v5 - jogo_super_mario\src\personagem.cpp
+	"Personagem.h"
+
+1474055361 source:c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v5 - jogo_super_mario\src\chefao.cpp
+	"Chefao.h"
+
+1474054832 c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v5 - jogo_super_mario\include\chefao.h
+	"Jogador.h"
+	"Inimigo.h"
+
+1474055563 source:c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v5 - jogo_super_mario\src\jogador.cpp
+	"Jogador.h"
+
+1474076368 source:c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v5 - jogo_super_mario\src\fase.cpp
+	"Fase.h"
+
+1474106088 c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v5 - jogo_super_mario\include\fase.h
+	"Jogador.h"
+	"Inimigo.h"
+	"Chefao.h"
+
+1474058578 source:c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v5 - jogo_super_mario\src\fase1.cpp
+	"Fase1.h"
+
+1474058604 c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v5 - jogo_super_mario\include\fase1.h
+	"Fase.h"
+
+1474058578 source:c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v5 - jogo_super_mario\src\fase2.cpp
+	"Fase2.h"
+
+1474058578 c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v5 - jogo_super_mario\include\fase2.h
+	"Fase.h"
+
+1474058578 source:c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v5 - jogo_super_mario\src\fase3.cpp
+	"Fase3.h"
+
+1474058578 c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v5 - jogo_super_mario\include\fase3.h
+	"Fase.h"
+
+1474088643 source:c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v5 - jogo_super_mario\src\jogo.cpp
+	"Jogo.h"
+
+1474130330 source:c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v5 - jogo_super_mario\src\principal.cpp
+	"Principal.h"
+
+1474130310 c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v5 - jogo_super_mario\include\principal.h
+	"Menu.h"
+
+1474130068 source:c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v5 - jogo_super_mario\src\menu.cpp
+	"Menu.h"
+
+1474129954 c:\users\márciovictor\documents\graduaÇÃo\utfpr\2016 - 2 semestre\fundamentos de programação 2\projeto\jogo\v5 - jogo_super_mario\include\menu.h
+	"Jogo.h"
+

@@ -1,0 +1,53 @@
+HISTÓRICO ANDAMENTO DO PROEJETO
+
+************************************************************************************************************************************
+************************************************************************************************************************************
+
+/*12/09/2016*/
+
+- Construído código Perssonagem.h e Personagem.cpp conforme UML.
+- Autualizado UML conforme as alterações eram feitas no código.
+- Iniciado construção das classes Inimigo e Jogador.
+- Criado a classe Chefão, mas não foi realizado nenhum trabalho nela. 
+
+************************************************************************************************************************************
+
+/*13/09/2016*/
+
+- perguntar ao monitor:
+	- Na UML é preciso escrever "virtual" para funções virtuais ou apenas no código;
+	- precisa escrever " = 0 " na UML para funçoes abstratas?
+	- a função Desenha será igual para todas as classes filhas, então eu declaro no .h do personagem, faço o código no .cpp
+	  e nas classes filhas precisa só declarar no .h? Já que utilizará a mesma função do Personagem.cpp? Ou nem no .h e nem 
+	  no .cpp das filhas, já que foi declarado e feito o código no .cpp...
+	- quando usar "." e quando utilizar utilizar "->"...
+	- como a classe chefão é filha de inimigo, na classe inimigo defino a função movimento como virtual? Declara a função 
+	  movimento na classe chefão porque será modificada ou só faz o cpp modificado, já que foi declarada na classe pai...
+	- Se inimigo conhece Jogador (pra fazer a colisão), como Chefão é filho de Inimigo, ainda sim Chefão precisa conhecer Jogador
+	  ou Chefão poderá saber a posição de Jogador só por ser filho de Inimigo.
+	- CONFIRMAR: Na herença, quando não tem o polimorfismo não precisa declarar a função no ".h" e fazer o código ".cpp" novamente. Quando tem Polimorfismo 
+	  é necessário redeclar a função no ".h" e fazer o ".cpp".	
+	- No jogo exemplo a classe "Jogo" tem um objeto tipo "Menu", tem a função "set Menu" mas não tem include Menu ou class Menu no cabeçalho...?
+	  Por acaso o objeto do tipo Menu é setado através da classe "Mapa1", que tem uma agregação fraca da classe "Menu"....é possível isso?
+
+- testado  no jogo V4 giro da figura. Não deu certo utilizando a função draw_sprite_ex para girar horizontalmente a figura....
+  Utilizei duas figuras para fazer o efeito de mudar a imagem quando o personagem vai para esquerda ou para a direita.
+
+**************************************************************************************************************************************
+
+/*16/09/2016*/
+
+
+- Organizado as declarações (.h) das classes Personagem, Jogador, Inimigo, Chefão, Fase, Fase1, Fase2, Fase3;
+
+********************************************************************************************************************************************
+
+/*17/09/2016*/
+
+- Construído ".h" das classes Jogo, Menu e Principal.
+
+- Próxima etapa: Fazer o código fonte das classes.
+**********************************************************************************************************************************************
+
+
+
