@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1446671344 source:c:\users\márciovictor\documents\curupira\v6 - jogo_super_mario\super mario v6\main.cpp
+	<iostream>
+
+1478808272 source:c:\users\márciovictor\documents\curupira\v6 - jogo_super_mario\super mario v6\src\entidade.cpp
+	"Entidade.h"
+
+1478808160 c:\users\márciovictor\documents\curupira\v6 - jogo_super_mario\super mario v6\include\entidade.h
+	<allegro.h>
+
