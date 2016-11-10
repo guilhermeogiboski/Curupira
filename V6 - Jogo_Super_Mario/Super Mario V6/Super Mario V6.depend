@@ -5,6 +5,17 @@
 1478808272 source:c:\users\márciovictor\documents\curupira\v6 - jogo_super_mario\super mario v6\src\entidade.cpp
 	"Entidade.h"
 
-1478808160 c:\users\márciovictor\documents\curupira\v6 - jogo_super_mario\super mario v6\include\entidade.h
+1478812608 c:\users\márciovictor\documents\curupira\v6 - jogo_super_mario\super mario v6\include\entidade.h
 	<allegro.h>
+
+1478812927 source:c:\users\márciovictor\documents\curupira\v6 - jogo_super_mario\super mario v6\src\cenario.cpp
+	"Cenario.h"
+
+1478812608 c:\users\márciovictor\documents\curupira\v6 - jogo_super_mario\super mario v6\include\cenario.h
+	<allegro.h>
+
+1478813151 source:c:\users\márciovictor\documents\curupira\v6 - jogo_super_mario\super mario v6\src\fase.cpp
+	"Fase.h"
+
+1478813151 c:\users\márciovictor\documents\curupira\v6 - jogo_super_mario\super mario v6\include\fase.h
 

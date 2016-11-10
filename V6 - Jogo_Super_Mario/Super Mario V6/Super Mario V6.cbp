@@ -34,9 +34,13 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="include/Cenario.h" />
 		<Unit filename="include/Entidade.h" />
+		<Unit filename="include/Fase.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="src/Cenario.cpp" />
 		<Unit filename="src/Entidade.cpp" />
+		<Unit filename="src/Fase.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
