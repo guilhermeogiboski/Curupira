@@ -1,0 +1,134 @@
+# depslib dependency file v1.0
+1446671344 source:c:\users\márciovictor\documents\curupira\v6 - jogo_super_mario\super mario v6\main.cpp
+	<iostream>
+
+1478808272 source:c:\users\márciovictor\documents\curupira\v6 - jogo_super_mario\super mario v6\src\entidade.cpp
+	"Entidade.h"
+
+1478812608 c:\users\márciovictor\documents\curupira\v6 - jogo_super_mario\super mario v6\include\entidade.h
+	<allegro.h>
+
+1478812927 source:c:\users\márciovictor\documents\curupira\v6 - jogo_super_mario\super mario v6\src\cenario.cpp
+	"Cenario.h"
+
+1478812608 c:\users\márciovictor\documents\curupira\v6 - jogo_super_mario\super mario v6\include\cenario.h
+	<allegro.h>
+
+1478813151 source:c:\users\márciovictor\documents\curupira\v6 - jogo_super_mario\super mario v6\src\fase.cpp
+	"Fase.h"
+
+1478813151 c:\users\márciovictor\documents\curupira\v6 - jogo_super_mario\super mario v6\include\fase.h
+
+1478884735 source:c:\users\casa2\documents\curupira\v6 - jogo_super_mario\super mario v6\main.cpp
+	<iostream>
+	<allegro.h>
+	"Jogador.h"
+
+1478815971 source:c:\users\casa2\documents\curupira\v6 - jogo_super_mario\super mario v6\src\cenario.cpp
+	"Cenario.h"
+
+1478815971 c:\users\casa2\documents\curupira\v6 - jogo_super_mario\super mario v6\include\cenario.h
+	<allegro.h>
+	"Entidade.h"
+
+1478884883 c:\users\casa2\documents\curupira\v6 - jogo_super_mario\super mario v6\include\entidade.h
+	"GerenciadorGrafico.h"
+	<allegro.h>
+
+1478815971 source:c:\users\casa2\documents\curupira\v6 - jogo_super_mario\super mario v6\src\entidade.cpp
+	"Entidade.h"
+
+1478815971 source:c:\users\casa2\documents\curupira\v6 - jogo_super_mario\super mario v6\src\fase.cpp
+	"Fase.h"
+
+1478815971 c:\users\casa2\documents\curupira\v6 - jogo_super_mario\super mario v6\include\fase.h
+
+1478818490 source:c:\users\casa2\documents\curupira\v6 - jogo_super_mario\super mario v6\src\personagem.cpp
+	"Personagem.h"
+
+1478819103 c:\users\casa2\documents\curupira\v6 - jogo_super_mario\super mario v6\include\personagem.h
+	<allegro.h>
+	"Entidade.h"
+
+1478819913 source:c:\users\casa2\documents\curupira\v6 - jogo_super_mario\super mario v6\src\jogador.cpp
+	"Jogador.h"
+
+1478819875 c:\users\casa2\documents\curupira\v6 - jogo_super_mario\super mario v6\include\jogador.h
+	"Personagem.h"
+
+1478882443 source:c:\users\casa2\documents\curupira\v6 - jogo_super_mario\super mario v6\src\gerenciadorgrafico.cpp
+	"GerenciadorGrafico.h"
+
+1478882421 c:\users\casa2\documents\curupira\v6 - jogo_super_mario\super mario v6\include\gerenciadorgrafico.h
+	<allegro.h>
+
+1478815971 source:c:\users\casa2\documents\curupira\guilherme2\v6 - jogo_super_mario\super mario v6\src\cenario.cpp
+	"Cenario.h"
+
+1478815971 c:\users\casa2\documents\curupira\guilherme2\v6 - jogo_super_mario\super mario v6\include\cenario.h
+	<allegro.h>
+	"Entidade.h"
+
+1479140424 c:\users\casa2\documents\curupira\guilherme2\v6 - jogo_super_mario\super mario v6\include\entidade.h
+	"GerenciadorGrafico.h"
+	<allegro.h>
+
+1478882421 c:\users\casa2\documents\curupira\guilherme2\v6 - jogo_super_mario\super mario v6\include\gerenciadorgrafico.h
+	<allegro.h>
+
+1479141343 source:c:\users\casa2\documents\curupira\guilherme2\v6 - jogo_super_mario\super mario v6\src\entidade.cpp
+	"Entidade.h"
+
+1478815971 source:c:\users\casa2\documents\curupira\guilherme2\v6 - jogo_super_mario\super mario v6\src\fase.cpp
+	"Fase.h"
+
+1478815971 c:\users\casa2\documents\curupira\guilherme2\v6 - jogo_super_mario\super mario v6\include\fase.h
+
+1478882443 source:c:\users\casa2\documents\curupira\guilherme2\v6 - jogo_super_mario\super mario v6\src\gerenciadorgrafico.cpp
+	"GerenciadorGrafico.h"
+
+1479491368 source:c:\users\casa2\documents\curupira\guilherme2\v6 - jogo_super_mario\super mario v6\src\jogador.cpp
+	"Jogador.h"
+
+1479467644 c:\users\casa2\documents\curupira\guilherme2\v6 - jogo_super_mario\super mario v6\include\jogador.h
+	"Personagem.h"
+
+1479466665 c:\users\casa2\documents\curupira\guilherme2\v6 - jogo_super_mario\super mario v6\include\personagem.h
+	<allegro.h>
+	"Entidade.h"
+
+1479476707 source:c:\users\casa2\documents\curupira\guilherme2\v6 - jogo_super_mario\super mario v6\src\personagem.cpp
+	"Personagem.h"
+
+1479493830 source:c:\users\casa2\documents\curupira\guilherme2\v6 - jogo_super_mario\super mario v6\main.cpp
+	<iostream>
+	<allegro.h>
+	"Jogador.h"
+	"Personagem.h"
+	"GerenciadorGrafico.h"
+	"Curupira.h"
+	"Saci.h"
+
+1479466138 source:c:\users\casa2\documents\curupira\guilherme2\v6 - jogo_super_mario\super mario v6\src\principal.cpp
+	"Principal.h"
+
+1479467341 c:\users\casa2\documents\curupira\guilherme2\v6 - jogo_super_mario\super mario v6\include\principal.h
+
+1479471194 source:c:\users\casa2\documents\curupira\guilherme2\v6 - jogo_super_mario\super mario v6\src\inimigo.cpp
+	"Inimigo.h"
+
+1479485073 c:\users\casa2\documents\curupira\guilherme2\v6 - jogo_super_mario\super mario v6\include\inimigo.h
+	"Personagem.h"
+
+1479486456 source:c:\users\casa2\documents\curupira\guilherme2\v6 - jogo_super_mario\super mario v6\src\curupira.cpp
+	"Curupira.h"
+
+1479485781 c:\users\casa2\documents\curupira\guilherme2\v6 - jogo_super_mario\super mario v6\include\curupira.h
+	"Inimigo.h"
+
+1479487161 source:c:\users\casa2\documents\curupira\guilherme2\v6 - jogo_super_mario\super mario v6\src\saci.cpp
+	"Saci.h"
+
+1479483972 c:\users\casa2\documents\curupira\guilherme2\v6 - jogo_super_mario\super mario v6\include\saci.h
+	"Inimigo.h"
+

@@ -12,8 +12,8 @@ protected:             // Protected para que as classes derivadas possuam esses 
     BITMAP* buffer; // buffer para que a entidade possa se desenhar na tela.
     float x;        // Posição em x.
     float y;        // Posição em y.
-    float h;        // Altura da imagem.
-    float l;        // Largura da imagem.
+    //float h;        // Altura da imagem.
+    //float l;        // Largura da imagem.
     float vx;       // Velocidade em Y.
     float vy;       // Velocidade em X.
 
@@ -26,8 +26,8 @@ public:
     void setBuffer( BITMAP* BUF);
     void setx( const float X );
     void sety( const float Y );
-    void seth( const float H );
-    void setl( const float L );
+    //void seth( const float H );
+    //void setl( const float L );
     void setvx( const float VX );
     void setvy( const float VY );
 
@@ -38,8 +38,8 @@ public:
     BITMAP* getimg();
     const float getx();
     const float gety();
-    const float geth();
-    const float getl();
+    //const float geth();
+    //const float getl();
     const float getvx();
     const float getvy();
 

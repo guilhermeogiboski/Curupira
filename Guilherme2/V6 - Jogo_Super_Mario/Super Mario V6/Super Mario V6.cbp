@@ -35,18 +35,26 @@
 			<Add option="-fexceptions" />
 		</Compiler>
 		<Unit filename="include/Cenario.h" />
+		<Unit filename="include/Curupira.h" />
 		<Unit filename="include/Entidade.h" />
 		<Unit filename="include/Fase.h" />
 		<Unit filename="include/GerenciadorGrafico.h" />
+		<Unit filename="include/Inimigo.h" />
 		<Unit filename="include/Jogador.h" />
 		<Unit filename="include/Personagem.h" />
+		<Unit filename="include/Principal.h" />
+		<Unit filename="include/Saci.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/Cenario.cpp" />
+		<Unit filename="src/Curupira.cpp" />
 		<Unit filename="src/Entidade.cpp" />
 		<Unit filename="src/Fase.cpp" />
 		<Unit filename="src/GerenciadorGrafico.cpp" />
+		<Unit filename="src/Inimigo.cpp" />
 		<Unit filename="src/Jogador.cpp" />
 		<Unit filename="src/Personagem.cpp" />
+		<Unit filename="src/Principal.cpp" />
+		<Unit filename="src/Saci.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
